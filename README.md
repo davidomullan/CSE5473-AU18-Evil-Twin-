@@ -6,19 +6,20 @@
 
 ### To run this attack you will need:
 
-1. a panda pauo5 wireless ap
-2. aircrack-ng
-3. sslstrip
-4. dsniff
+- a panda pauo5 wireless ap
+- aircrack-ng
+- sslstrip
+- dsniff
 
-- 1.sh, 2.sh, dnsspoof.sh, sslstrip.sh, and conf should be in home dir
+1. 1.sh, 2.sh, dnsspoof.sh, sslstrip.sh, and conf should be in home dir
 
-- Insert panda pauo5 device into usb
+2. Insert panda pauo5 device into usb
 
-- ifconfig to see what device interface is called
-- replace wlx9cefd5fc329b with your device interface
+3. ifconfig to see what device interface is called
 
-- After these are obtained, run the following commands:
+4. replace wlx9cefd5fc329b with your device interface
+
+5. After these are obtained, run the following commands:
 source 1.sh
 (open new terminal)
 source 2.sh

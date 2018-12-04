@@ -4,6 +4,13 @@
 
 ### [Demo](https://drive.google.com/open?id=1hoK0l20Fc46TEaCidFrXQLwdn6iWbXDO)
 
+# Individual contribution:
+# Will Olshefski: dnsspoof/ metasploit
+# David O'Mullan: obtained/ set up ap
+# Ethan Willitzer: sslstrip
+# Woongki Lee: set up web server
+# everyone: debug networking problems
+
 ### To run this attack you will need:
 
 - a panda pauo5 wireless ap

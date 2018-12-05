@@ -1,4 +1,5 @@
 #!/bin/bash
+#This script provides the victim with internet access and allows for packet forwarding
 sudo airmon-ng check kill
 sudo ifconfig at0 10.0.0.1 up
 sudo iptables --flush

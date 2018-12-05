@@ -13,7 +13,7 @@
 
 ### To run this attack you will need:
 
-- a panda pauo5 wireless ap
+- a panda pauo5 wireless ap (others ap's may work, but were not tested)
 - aircrack-ng
 - sslstrip
 - dsniff

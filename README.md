@@ -6,7 +6,7 @@
 
  #### Individual contribution:
 - Will Olshefski: dnsspoof/ metasploit
-- David O'Mullan: obtained/ set up ap
+- David O'Mullan: obtained/ set up ap with aircrack-ng
 - Ethan Willitzer: sslstrip
 - Woongki Lee: set up web server
 - everyone: debug networking problems

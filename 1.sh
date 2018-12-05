@@ -1,5 +1,5 @@
 #!/bin/bash
-#This file sets up the AP and boosts it to the highest US regulation
+#This script sets up the AP and boosts it to the highest US regulation
 #Most APs run at an "efficient" transmission power, so our AP should be a stronger signal
 sudo ifconfig wlx9cefd5fc329b up
 sudo airmon-ng start wlx9cefd5fc329b
